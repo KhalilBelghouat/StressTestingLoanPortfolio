@@ -20,8 +20,7 @@ We note that, for all volatility and distribution specifications, the Markov reg
 
 ### About The Data
 
-The data, a financial time series, is organized in a table containing 7 columns and 5105 rows. The first column contains the date, the following 4 columns contain the closing, opening, high and low prices of the MASI index, while the remaining columns contain the index's trading volumes and daily variations.
+The _data_ folder contains the portfolio of outstanding, ane historical, loans as well as economic and financial time series under normal and stressed conditions.
 
 ### Model Building and Estimation
 
-The 72 models in this study were all built using the ```MSGARCH``` package. The estimation procedure was done via the Maximum Likelihood technique.
