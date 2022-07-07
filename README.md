@@ -4,7 +4,7 @@ This repository includes the code used to perform stress testing based on econom
 
 ## Prerequisites
 
-The ```Python``` programming language, version 4.2.0, and its statistical and machine learning libraries were used to build all applied models. The ```R``` script _packages.R_ in the _packages_ folder installs and loads all necessary ```R``` packages. 
+The ```Python``` programming language, version 3.7.13, and its statistical libraries were used to build all applied models. The ```Python``` script _stress_test.py_ in the _python_ folder contains the script necessary to reproduce the results.
 
 All operations, from data preprocessing to model estimation, were carried out on the Google Colaboratory platform.
 
