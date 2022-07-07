@@ -1,6 +1,6 @@
 # Stress Testing: Predicting Loss under Adverse Economic Conditions
 
-This repository includes the code used to perform stress testing based on economic scenarios using loan portfolio. The application was originally done on ```[MATLAB](https://www.mathworks.com/matlabcentral/fileexchange/67771-stress-testing-predicting-loss-under-adverse-economic-conditions)``` and we extended it to the open-source ```Python``` programming language.
+This repository includes the code used to perform stress testing based on economic scenarios using loan portfolio. The application was originally done on [```MATLAB```](https://www.mathworks.com/matlabcentral/fileexchange/67771-stress-testing-predicting-loss-under-adverse-economic-conditions) and we extended it to the open-source ```Python``` programming language.
 
 ## Prerequisites
 
