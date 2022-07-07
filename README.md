@@ -9,3 +9,5 @@ The ```Python``` programming language, version 3.7.13, and its statistical libra
 All operations, from data preprocessing to model estimation, were carried out on the Google Colaboratory platform.
 
 ## Theoretical Background
+
+Bank stress testing is a framework for analyzing the impact of simulated extreme, but plausible, economic and financial conditions to ensure that banks have sufficient capital to maintain operations during such situations. Banking stress tests were introduced by central banks and authorities in charge of banking supervision in the late 1990s. From that time, the more frequent banking and financial crises, and in particular the Asian crisis of 1997, had highlighted the role of the deterioration of macroeconomic factors in the triggering of banking crises which  were not sufficiently taken into account in other methods of banking regulation and supervision.
