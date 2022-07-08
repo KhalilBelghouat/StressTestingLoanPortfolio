@@ -20,7 +20,7 @@ The applied generalized linear model takes into account, in addition to loan inf
 
 ### About The Data
 
-The _data_ folder contains the portfolio of outstanding, ane historical, loans as well as economic and financial time series under normal and stressed conditions.
+The _data_ folder contains the portfolio of outstanding, and historical, loans as well as economic and financial time series under normal and stressed conditions.
 
 ### Model Building and Estimation
 
