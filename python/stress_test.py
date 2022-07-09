@@ -87,12 +87,12 @@ plt.legend()
 
 plt.subplot(2, 1, 2)
 plt.plot(myModel["YOB"].unique(), estDefault, "o-", color = "green", label = "Fitted Model")
-plt.xlabel("YOB")
+plt.xlabel("Years on Books")
 plt.legend()
 
 plt.plot(predPD["YOB"].unique(), predDefault, "o-", color = "red", label = "Predicted Adverse Portfolio")
 plt.title("Defaul Rate (%)")
-plt.xlabel("YOB")
+plt.xlabel("Years on Books")
 plt.legend()
 
 plt.show()
