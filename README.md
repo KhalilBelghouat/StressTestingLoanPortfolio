@@ -24,4 +24,4 @@ The _data_ folder contains the portfolio of outstanding, and historical, loans a
 
 ### Model Building and Estimation
 
-The generalized linear model in this application was built and estimaed using the ```statsmodels``` library.
+The generalized linear model in this application was built and estimated using the ```statsmodels``` library.
